@@ -1,0 +1,496 @@
+@font-face {
+  font-family: "AileronRegular";
+  src: url(../fonts/Aileron-Bold.ttf);
+  src: url(../fonts/Aileron-Bold.otf);
+}
+
+/*!  homev3 */
+header {
+  padding: 20px 0 20px;
+}
+.homevone {
+  text-align: center;
+  padding-top: 25px;
+}
+.homevone h1 {
+  color: #0a2141;
+  font-size: 50px;
+  line-height: 1.2em;
+  font-family: "AileronRegular";
+  margin: 10px 0px 15px;
+}
+.homevone p {
+  font-size: 18px;
+  max-width: 910px;
+  margin: 0 auto;
+  color: #000;
+}
+.homevoneinner iframe {
+  padding: 0 60px;
+}
+.homevone form {
+  text-align: center;
+  padding: 60px 60px 0 60px;
+}
+.homevone form .form-control {
+  text-align: center;
+  padding: 12px;
+}
+.homevone form .btn {
+  background: #bb913a !important;
+  text-transform: uppercase;
+  font-size: 16px;
+  width: 100%;
+  border: none;
+  padding: 12px;
+}
+.homevtwo {
+  text-align: center;
+  padding-top: 75px;
+}
+.iconhome h3 {
+  font-size: 30px;
+  line-height: 1.2em;
+  color: #0a2141;
+  font-family: "AileronRegular";
+  margin: 20px auto 45px;
+}
+.homevthree {
+  padding: 125px 0 105px;
+}
+.iconhomethree {
+  border: 1px solid #cfcfcf;
+  text-align: center;
+  border-radius: 15px;
+  padding: 30px 30px 40px;
+  margin: 45px 15px;
+  min-height: 405px;
+  position: relative;
+}
+.iconhomethree h3 {
+  font-size: 24px;
+  line-height: 1.2em;
+  color: #0a2141;
+  font-family: "AileronRegular";
+  margin: 20px auto 15px;
+  text-align: left !important;
+}
+.iconhomethree p {
+  font-size: 16px;
+  text-align: left !important;
+}
+a.hvbutton {
+  background: #0a2141;
+  padding: 12px 25px 12px 25px;
+  border-radius: 7px;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing: 1px;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+.iconhomethree p.btmm {
+  margin-bottom: 0px;
+  position: absolute;
+  bottom: 30px;
+  display: block;
+  width: 100%;
+  max-width: 260px;
+}
+.iconhomethree .middle {
+  background: #bb913a;
+}
+.iconhomethree img {
+  margin-top: -85px;
+}
+
+/*! Business Funding client */
+.homevoneinner {
+  max-width: 910px;
+  margin: 0 auto;
+}
+.homevone .homevoneinner p {
+  font-size: 18px;
+  margin: 0 auto 40px;
+  color: #000;
+}
+.homevone .form-group {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.2);
+}
+.bfclienttwo {
+  text-align: center;
+  padding: 75px 0 50px;
+}
+.bfclienttwo h2 {
+  color: #0a2141;
+  font-size: 50px;
+  line-height: 1.2em;
+  font-family: "AileronRegular";
+  margin: 10px 0px 35px;
+}
+.iconbfc {
+  padding: 35px;
+  text-align: center;
+}
+.iconbfc h3 {
+  font-size: 24px;
+  line-height: 1.2em;
+  color: #0a2141;
+  font-family: "AileronRegular";
+  margin: 20px auto 15px;
+}
+
+/*!  bfcvthree */
+.bfcvthree {
+  padding: 5px 0 35px;
+}
+.bfcvthree h2 {
+  color: #0a2141;
+  font-size: 50px;
+  line-height: 1.2em;
+  font-family: "AileronRegular";
+  margin: 10px 0px 65px;
+  text-align: center;
+}
+/*!  bfcvfour */
+.bfcvfour {
+  background: #bb913a;
+  padding: 55px 0 65px;
+  text-align: center;
+}
+.bfcvfour h2 {
+  font-size: 66px;
+  line-height: 1.2em;
+  color: #ffffff;
+  font-family: "AileronRegular";
+  margin: 20px auto 0px;
+}
+.bfcvfour h3 {
+  font-size: 36px;
+  line-height: 1.2em;
+  color: #ffffff;
+  font-family: "AileronRegular";
+  margin: 20px auto 35px;
+}
+a.bfcvbutton {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  border-radius: 7px;
+  border: 1px solid #ffffff;
+  padding: 12px 25px;
+  margin: 0 auto;
+  text-decoration: none;
+  font-weight: bold;
+}
+.homev3-footer {
+  padding: 35px 0 35px;
+}
+.footermenu {
+  display: block;
+  max-width: 540px;
+  padding-left: 0;
+  margin: 17px auto 0;
+  text-align: center;
+}
+.footermenu li {
+  list-style: none;
+  float: left;
+  padding: 10px;
+}
+.footermenu li a {
+  padding: 0 5px;
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 17px;
+}
+.footermenu li a:hover,
+.footermenu li a.active {
+  color: #88672b;
+}
+.flogo img {
+  width: 100%;
+  max-width: 200px;
+}
+.sociallinks {
+  margin: 17px auto 0;
+}
+.sociallinks li {
+  float: left;
+  list-style: none;
+  padding: 10px;
+}
+.sociallinks li a {
+  color: #000;
+  font-size: 18px;
+}
+.sociallinks li a:hover,
+.sociallinks li a.active {
+  color: #88672b;
+}
+.bordertop {
+  border-top: 1px solid #ddd;
+  margin-top: 30px;
+}
+.privacy a {
+  color: #081a34;
+  padding: 5px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+/*!  Header */
+nav img {
+  width: 100%;
+  max-width: 200px;
+  margin-right: 40px;
+}
+.nav-item {
+  padding: 0 10px;
+}
+nav .sociallinks {
+  margin: 7px auto 0;
+}
+.nav-item a {
+  color: #000 !important;
+  font-size: 16px !important;
+  font-weight: bold;
+}
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #88672b !important;
+}
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #88672b !important;
+}
+
+/*!  FAQ page */
+.faq .homevone {
+  background: #eff3f6;
+  padding-top: 60px;
+}
+.faq .bfclienttwo {
+  background: #eff3f6;
+  padding-top: 33px;
+  padding-bottom: 70px;
+}
+.faqtwo .iconbfc {
+  background: #fff;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  margin-top: 40px;
+  min-height: 200px;
+}
+.faqtwo .iconbfc.active {
+  border: 1px solid #c09c51;
+}
+.faqtwo .iconbfc h3 {
+  font-size: 24px;
+  line-height: 1.2em;
+  color: #0a2141;
+  font-family: "AileronRegular";
+  margin: 20px auto 0px;
+}
+.faqtwo .iconbfc a {
+  text-decoration: none;
+}
+.accordion .card-header:after {
+  font-family: "FontAwesome";
+  content: "\f068";
+  float: right;
+  color: #bb913a;
+}
+.accordion .card-header.collapsed:after {
+  /* symbol for "collapsed" panels */
+  content: "\f067";
+}
+.faqthree .card-title {
+  color: #0a2141 !important;
+  font-size: 22px;
+  font-weight: 600;
+}
+.faqthree .card-header {
+  cursor: pointer;
+}
+.card-title i {
+  font-size: 7px;
+  position: relative;
+  top: -4px;
+  color: #bb913a;
+  margin-right: 15px;
+}
+.card-header {
+  padding: 1.75rem 0.5rem;
+  margin-bottom: 0;
+  background-color: transparent;
+  border-top: 2px solid #edf3f7;
+  border-bottom: none;
+}
+.card {
+  border-top: 0px solid #fff;
+  border-bottom: 2px solid #edf3f7;
+  border-left: 0px solid #fff;
+  border-right: 0px solid #fff;
+  border-radius: 0rem;
+}
+.bfcvthree.faqthree {
+  padding: 30px 0 60px;
+}
+.card-header:first-child {
+  border-top: none;
+}
+.faqtwo .btn-outline-primary {
+  background: #bb913a;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  border: none;
+  border-radius: 0px 5px 5px 0;
+  padding: 20px 45px;
+  font-family: "AileronRegular";
+  letter-spacing: 1px;
+}
+.faqtwo .form-control::placeholder {
+  opacity: 1;
+  color: #bababa !important;
+  font-size: 15px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.faqtwo .form-control.rounded {
+  border: none;
+  border-radius: 5px 0px 0px 5px !important;
+  padding-left: 55px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(0, 0, 0, 0.05);
+}
+.faqtwo form {
+  margin-bottom: 10px;
+}
+.faqthree .card-body {
+  padding: 0rem 1.25rem 1.25rem 2.3rem;
+}
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #bababa;
+  padding: 13px 13px 13px 30px;
+}
+
+/*!  About us page */
+.homevoneinner.bca-about-title h2 {
+  color: #bb913a;
+  margin-bottom: 30px;
+}
+
+a.text-white.hvbutton.about-us-btn {
+  max-width: max-content;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.single-about-box {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: left;
+  padding: 5rem;
+  position: relative;
+  padding-top: 4rem;
+  margin-bottom: 8rem;
+  padding-bottom: 4rem;
+}
+
+.single-about-box p {
+  margin-left: 0;
+}
+
+.single-about-box img {
+  position: absolute;
+  top: 0;
+  transform: translate(0px, -54px);
+}
+
+.single-about-box h2 {
+  color: #0a2141;
+  margin-bottom: 1rem;
+}
+
+.row.about-main-area {
+  padding-top: 5rem;
+}
+
+ul.ab-items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: left;
+  color: #fff;
+}
+
+ul.ab-items li img {
+  margin-right: 0.5rem;
+}
+
+ul.ab-items li {
+  margin-bottom: 0.5rem;
+  font-size: 18px;
+}
+
+.about-item-list {
+  margin-bottom: 3rem;
+}
+.single-about-box img.s-a-b-2 {
+  transform: translate(0px, -30px);
+}
+img.s-a-b-4 {
+  transform: translate(0px, -44px);
+}
+
+img.s-a-b-5 {
+  transform: translate(0px, -43px);
+}
+
+/*!  Responsive */
+@media only screen and (max-width: 768px) {
+  .homevone h1 {
+    font-size: 42px;
+  }
+  .iconhomethree p.btmm {
+    width: auto;
+  }
+  .homevoneinner iframe {
+    padding: 0 10px;
+  }
+  .homevone form {
+    text-align: center;
+    padding: 60px 10px 0 10px;
+  }
+  .sociallinks {
+    width: 225px;
+  }
+  .flogo {
+    text-align: center;
+  }
+  .footermenu li {
+    float: none;
+  }
+  nav img {
+    float: left;
+    display: inline-block;
+    width: 140px;
+  }
+  .container .row .col-md-10 .container .row .col-md-4 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
